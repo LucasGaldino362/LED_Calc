@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685383702 source:c:\users\galdino\desktop\led_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
